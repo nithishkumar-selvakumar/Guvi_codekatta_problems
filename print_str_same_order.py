@@ -1,4 +1,7 @@
-#nithsh
+#nithish
 n=input()
 for i in n:
-	print(i,end=" ")
+	if(i==n):
+		print(i,end="")
+	else:
+		print(i,end=" ")
