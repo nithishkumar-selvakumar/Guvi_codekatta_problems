@@ -7,34 +7,34 @@ void main()
 	switch(n)
 	{
 		case 1:
-		print("one");
+		print("One");
 		break;
 		case 2:
-		print("two");
+		print("Two");
 		break;
 		case 3:
-		print("three");
+		print("Three");
 		break;
 		case 4:
-		print("four");
+		print("Four");
 		break;
 		case 5:
-		print("five");
+		print("Five");
 		break;
 		case 6:
-		print("six");
+		print("Six");
 		break;
 		case 7:
-		print("seveen");
+		print("Seveen");
 		break;
 		case 8:
-		print("eight");
+		print("Eight");
 		break;
 		case 9:
-		print("nine");
+		print("Nine");
 		break;
 		case 0:
-		print("zero");
+		print("Zero");
 		break;
 		default:
 			printf("no such number");
