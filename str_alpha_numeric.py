@@ -8,6 +8,6 @@ for i in s:
 	if i.isnumeric():
 		n+=1
 if a>0 and n>0:
-	print("yes")
+	print("Yes")
 else:
-	print("no")
+	print("No")
