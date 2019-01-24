@@ -6,7 +6,7 @@ for i in n:
 	li.append(i)
 a=set(li)
 if(len(n)==len(a)):
-	print("YES")
+	print("Yes")
 else:
-	print("NO")
+	print("No")
 	
