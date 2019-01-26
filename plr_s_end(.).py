@@ -1,0 +1,2 @@
+#nithish
+print(str(input())+'.')
