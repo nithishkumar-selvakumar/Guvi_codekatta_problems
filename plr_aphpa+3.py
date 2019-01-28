@@ -1,6 +1,6 @@
 #nithish
 n=input()
-li=['a','b','c','d','e','f','g','h','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z']
+li=['A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z']
 a=[]
 for i in range(len(n)):
 	for j in range(len(li)):
@@ -8,4 +8,5 @@ for i in range(len(n)):
 			a.append(li[j+3])
 for i in a:
     print(i.upper(),end="")
+
 
