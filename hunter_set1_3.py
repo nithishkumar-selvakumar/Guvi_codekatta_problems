@@ -1,4 +1,4 @@
-hunter(3)
+#hunter(3)
 #nithish
 n=int(input())
 l=list(map(int,input().split(" ")))
