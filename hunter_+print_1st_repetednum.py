@@ -10,7 +10,7 @@ for n in s:
 		a.append(n)
 	else:
 		b.append(n)
-if n==[]:
+if b==[]:
 	print("unique")
 else:
 	print(b[0])
